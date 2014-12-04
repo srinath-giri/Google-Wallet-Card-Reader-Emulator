@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Volumes/Data/Git%20Projects/CardReader/CardReaderSample/src/main/res/values/template-dimens.xml -->
+    <eat-comment />
+
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/Volumes/Data/Git%20Projects/CardReader/CardReaderSample/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="account_number">Card Number</string>
+    <!-- From: file:/Volumes/Data/Git%20Projects/CardReader/CardReaderSample/src/main/res/values/base-strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Google Wallet Card Reader</string>
+    <!-- From: file:/Volumes/Data/Git%20Projects/CardReader/CardReaderSample/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="card_title">Google Wallet Card</string>
+    <!-- From: file:/Volumes/Data/Git%20Projects/CardReader/CardReaderSample/src/main/res/values/base-strings.xml -->
+    <eat-comment />
+
+    <string name="intro_message">
+<![CDATA[
+        
+            
+            A low-level NFC card reader for reading the Google Wallet Card (MasterCard PayPass Terminal)
+
+        
+        ]]>
+    </string>
+    <!-- From: file:/Volumes/Data/Git%20Projects/CardReader/CardReaderSample/src/main/res/values/fragmentview_strings.xml -->
+    <eat-comment />
+
+    <string name="sample_hide_log">Hide Log</string>
+    <string name="sample_show_log">Show Log</string>
+    <!-- From: file:/Volumes/Data/Git%20Projects/CardReader/CardReaderSample/src/main/res/values/template-styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="Theme.Sample" />
+
+    <style name="Theme.Base" parent="android:Theme.Light" />
+
+    <style name="Theme.Sample" parent="Theme.Base" />
+
+    <style name="Widget" />
+
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+</resources>

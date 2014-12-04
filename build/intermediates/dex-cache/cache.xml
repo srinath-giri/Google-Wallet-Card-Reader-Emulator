@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Volumes/Data/Git Projects/CardReader/CardReaderSample/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-c643298ea40ee2e6b3a9770ebfee4b836ca9d4ff.jar"
+        jar="/Volumes/Data/Git Projects/CardReader/CardReaderSample/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Applications/Android Studio.app/sdk/samples/android-19/connectivity/CardReader/CardReaderSample/build/intermediates/pre-dexed/debug/classes-bff3c7c3ff0f749e3c8ccbe3271d1a4b92c2c57b.jar"
+        jar="/Applications/Android Studio.app/sdk/samples/android-19/connectivity/CardReader/CardReaderSample/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Applications/Android Studio.app/sdk/samples/android-19/connectivity/CardReader/CardReaderSample/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-3a98dd9283ce53cb72c486e2d3d2084488926c30.jar"
+        jar="/Applications/Android Studio.app/sdk/samples/android-19/connectivity/CardReader/CardReaderSample/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Applications/Android Studio.app/sdk/samples/android-19/connectivity/CardReader/CardReaderSample/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Applications/Android Studio.app/sdk/samples/android-19/connectivity/CardReader/CardReaderSample/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-cfa6af80b835fdc19765fa2a80b2bb27d0218a2e.jar"
+        jar="/Applications/Android Studio.app/sdk/samples/android-19/connectivity/CardReader/CardReaderSample/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="/Volumes/Data/Git Projects/CardReader/CardReaderSample/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-16f6bfc60b8fac5602cb60863ef48022db9bbd21.jar"
+        jar="/Volumes/Data/Git Projects/CardReader/CardReaderSample/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="/Volumes/Data/Git Projects/CardReader/CardReaderSample/build/intermediates/pre-dexed/debug/classes-9dbd3ac2d134ef9b985e32f65b402a8350f8c57c.jar"
+        jar="/Volumes/Data/Git Projects/CardReader/CardReaderSample/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="/Applications/Android Studio.app/sdk/samples/android-19/connectivity/CardReader/CardReaderSample/build/intermediates/pre-dexed/debug/classes-61d63dc2d74c300ae5d5f9f0354027f699ed974a.jar"
+        jar="/Applications/Android Studio.app/sdk/samples/android-19/connectivity/CardReader/CardReaderSample/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="/Volumes/Data/Git Projects/CardReader/CardReaderSample/build/intermediates/pre-dexed/debug/classes-ea5fe2549bc69307ddaeb1032555acc07facd845.jar"
+        jar="/Volumes/Data/Git Projects/CardReader/CardReaderSample/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>

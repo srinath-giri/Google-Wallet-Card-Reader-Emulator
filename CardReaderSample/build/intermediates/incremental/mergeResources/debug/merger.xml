@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/res" />
+    </dataSet>
+    <dataSet config="20.0.0" >
+        <source path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tile"
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/drawable-hdpi/tile.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="card_background"
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/drawable-xxhdpi/card_background.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_fragment"
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/layout/main_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/layout-w720dp/activity_main.xml"
+                qualifiers="w720dp-v13"
+                type="layout" />
+            <file
+                name="main"
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/values/base-strings.xml"
+                qualifiers="" >
+                <string name="app_name" >Google Wallet Card Reader
+                </string>
+                <string name="intro_message" >
+<![CDATA[
+        
+            
+            A low-level NFC card reader for reading the Google Wallet Card (MasterCard PayPass Terminal)
+
+        
+        ]]>
+                </string>
+            </file>
+            <file
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/values/fragmentview_strings.xml"
+                qualifiers="" >
+                <string name="sample_hide_log" >Hide Log
+                </string>
+                <string name="sample_show_log" >Show Log
+                </string>
+            </file>
+            <file
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="card_title" >Google Wallet Card
+                </string>
+                <string name="account_number" >Card Number
+                </string>
+            </file>
+            <file
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/values/template-dimens.xml"
+                qualifiers="" >
+                <dimen name="margin_huge" >64dp
+                </dimen>
+                <dimen name="margin_tiny" >4dp
+                </dimen>
+                <dimen name="margin_large" >32dp
+                </dimen>
+                <dimen name="horizontal_page_margin" >@dimen/margin_medium
+                </dimen>
+                <dimen name="margin_medium" >16dp
+                </dimen>
+                <dimen name="vertical_page_margin" >@dimen/margin_medium
+                </dimen>
+                <dimen name="margin_small" >8dp
+                </dimen>
+            </file>
+            <file
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/values/template-styles.xml"
+                qualifiers="" >
+
+                <style name="Widget" />
+
+                <style name="Widget.SampleMessage" >
+                    <item name="android:textAppearance">
+?android:textAppearanceMedium
+                    </item>
+                    <item name="android:lineSpacingMultiplier">
+1.1
+                    </item>
+                </style>
+
+                <style name="Widget.SampleMessageTile" >
+                    <item name="android:background">
+@drawable/tile
+                    </item>
+                    <item name="android:shadowColor">
+#7F000000
+                    </item>
+                    <item name="android:shadowDy">
+-3.5
+                    </item>
+                    <item name="android:shadowRadius">
+2
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.Base"
+                    parent="android:Theme.Light" />
+
+                <style
+                    name="Theme.Sample"
+                    parent="Theme.Base" />
+
+                <style
+                    name="AppTheme"
+                    parent="Theme.Sample" />
+            </file>
+            <file
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/values-sw600dp/template-dimens.xml"
+                qualifiers="sw600dp-v13" >
+                <dimen name="horizontal_page_margin" >@dimen/margin_huge
+                </dimen>
+                <dimen name="vertical_page_margin" >@dimen/margin_medium
+                </dimen>
+            </file>
+            <file
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/values-sw600dp/template-styles.xml"
+                qualifiers="sw600dp-v13" >
+
+                <style name="Widget.SampleMessage" >
+                    <item name="android:textAppearance">
+?android:textAppearanceLarge
+                    </item>
+                    <item name="android:lineSpacingMultiplier">
+1.2
+                    </item>
+                    <item name="android:shadowDy">
+-6.5
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/values-v11/template-styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="Theme.Base"
+                    parent="android:Theme.Holo.Light" />
+            </file>
+            <file
+                name="nfc_tech_filter"
+                path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/main/res/xml/nfc_tech_filter.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/common/res" />
+        <source path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/template/res" />
+        <source path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/build/generated/res/rs/debug" />
+        <source path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Volumes/Data/Git Projects/CardReader/CardReaderSample/src/debug/res" />
+    </dataSet>
+
+</merger>
